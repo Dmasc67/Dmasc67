@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍 I'm from Spain!<br>👨🏽‍💻 Coding since 2019<br>📚 I'm currently studying Web Development<br>🎯 Goals: To continue studying higher education or university studies and keep developing and learning. <br>
+<p align="left">🌍 I'm from Spain!<br>👨🏽‍💻 Coding since 2019<br>📚 I'm currently studying Web Development<br>🎯 Goals: To continue studying higher education or university studies and keep developing and learning. <br>📧 sergi.masip2004@gmail.com
 
 ###
 
