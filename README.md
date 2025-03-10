@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sergi and I have a Higher Vocational Training degree in ASIX (Network Systems Administration) and another in DAW (Web Application Development) from the Spanish education system.</p>
+<p align="left">My name is Sergi and I have a Higher Vocational Training degree in ASIR (Network Systems Administration) and another in DAW (Web Application Development) from the Spanish education system.</p>
 
 ###
 
