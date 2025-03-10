@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sergi and I have a Higher Vocational Training degree in ASIX (Network Systems Administration) and knowledge of DAW (Web Application Development) and I'm from Spain!</p>
+<p align="left">My name is Sergi and I have a Higher Vocational Training degree in ASIX (Network Systems Administration) and another in DAW (Web Application Development) from the Spanish education system.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2019<br>📚 I'm currently studying Web Development<br>🎯 Goals: To continue studying higher education or university studies and keep developing and learning. <br>
+<p align="left">🌍 I'm from Spain!<br>👨🏽‍💻 Coding since 2019<br>📚 I'm currently studying Web Development<br>🎯 Goals: To continue studying higher education or university studies and keep developing and learning. <br>
 
 ###
 
