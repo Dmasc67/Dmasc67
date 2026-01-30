@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sergi and I have a Higher Vocational Training degree in ASIR (Network Systems Administration) and another one on DAW (Web Application Development) from the Spanish education system. I am going to start my bachelor's degree in Telecommunications Systems Engineering</p>
+<p align="left">My name is Sergi and I have a Higher Vocational Training degree in ASIR (Network Systems Administration) and another one on DAW (Web Application Development) from the Spanish education system.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📧 sergi.masip2004@gmail.com <br> 🌍 I'm from Spain!<br>👨🏽‍💻 Coding since 2019<br>📚 I'm currently studying Web Development<br>🎯 Goals: To continue studying higher education or university studies and keep developing and learning.
+<p align="left">📧 sergi.masip2004@gmail.com <br> 🌍 I'm from Spain!<br>👨🏽‍💻 Coding since 2019<br>🎯 Goals: To continue studying higher education or university studies and keep developing and learning.
 
 ###
 
